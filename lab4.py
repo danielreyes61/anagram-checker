@@ -11,7 +11,8 @@
 #>>> enter the first word: dormitory
 #>>> enter the second word: dirtyroom
 #>>> 'dormitory' and 'dirtyroom' are anagrams
-#One potential solution to this lab involves Python's built-in function sorted(), which will sort list items as well as characters in a string. However, please use the list method for sorting the lists in this lab instead.
+#One potential solution to this lab involves Python's built-in function sorted(), which will sort list items 
+#as well as characters in a string. However, please use the list method for sorting the lists in this lab instead.
 
 
 
